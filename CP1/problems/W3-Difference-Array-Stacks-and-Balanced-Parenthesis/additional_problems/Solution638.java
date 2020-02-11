@@ -1,4 +1,7 @@
 class Solution638 {
+    // Code from https://leetcode.com/articles/valid-parenthesis-string/
+    // Brillant greedy algorithm
+
     public boolean checkValidString(String s) {
         int lo = 0, hi = 0;
 
