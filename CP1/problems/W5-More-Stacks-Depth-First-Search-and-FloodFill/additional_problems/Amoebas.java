@@ -10,7 +10,6 @@ class Amoebas {
             int row = Integer.parseInt(line.split(" ")[0]);
             int col = Integer.parseInt(line.split(" ")[1]);
 
-
             char[][] grid = new char[row][col];
             int i = 0, j = 0;
             for (i = 0; i < row; ++i) {
