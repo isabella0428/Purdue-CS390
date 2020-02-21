@@ -1,6 +1,7 @@
 import java.io.*;
 
 // http://www.usaco.org/index.php?page=viewproblem2&cpid=189
+// TODO: 5/10 WA
 
 class HorseShoes {
     private static int ans = 0;

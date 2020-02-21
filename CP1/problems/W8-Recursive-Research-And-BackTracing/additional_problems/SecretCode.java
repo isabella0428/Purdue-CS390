@@ -1,6 +1,7 @@
 import java.io.*;
 
 // http://www.usaco.org/index.php?page=viewproblem2&cpid=396
+// TODO: 8/9    WA
 
 class SecretCode {
     public static void main(String...args) {
